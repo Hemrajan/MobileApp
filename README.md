@@ -1,2 +1,3 @@
 # MobileApp
-for Mobile Technology course at UTB
+
+javascript block chain applicaiton 
